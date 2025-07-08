@@ -1,4 +1,4 @@
-Hi, I’m Amey, a CS student from India. I like building stuff, exploring tech, and learning by doing. I’ve worked on a range of projects, from compilers to web apps. Outside code, I’m into chess, finance (quants/HFTs), and philosophy.
+Hi, I’m Amey, a CS student from India. I like building stuff, exploring tech, and learning by doing. I’ve worked on a range of projects, from compilers to web apps. Outside code, I’m into chess, finance, and philosophy.
 
 ## Projects
 
