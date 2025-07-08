@@ -8,7 +8,7 @@ Hi, I’m Amey, a CS student from India. I like building stuff, exploring tech, 
 
 ## Links
 
-[GitHub](https://github.com/tervicke) · [Twitter](https://twitter.com/amey) · [Discord](https://discord.com/users/amey)
+[GitHub](https://github.com/tervicke) · [Twitter](https://twitter.com/tervicke)
 
 > "Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible."  
 > — Richard Feynman
