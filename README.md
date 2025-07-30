@@ -6,7 +6,7 @@ Hi, I’m Amey, a CS student from India. I like building stuff, exploring tech, 
 - [Tolstoy](https://github.com/tervicke/tolstoy) – A pub-sub messaging system built with Golang.
 - [CET College Search](https://github.com/tervicke/CET_college_search) – A web app to filter CET colleges by district, course, and seat type.
 
-# Blogs
+## Blogs
 - [Exploring Function Overloading in Python with Decorators ](blogs/python_overloading.md)
 
 ## Links
