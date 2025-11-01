@@ -16,3 +16,13 @@ Hi, I’m Amey, a CS student from India. I like building stuff, exploring tech, 
 
 > "Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible."  
 > — Richard Feynman
+<br>
+
+<p>Some cool People I know<p>
+<span style="display:inline-flex;gap:8px;align-items:center">
+  <a href="https://syswraith.github.io" target="_blank" rel="noopener noreferrer"><img src="https://github.com/syswraith.png" style="height:50px;border-radius:0" alt="@syswraith"></a>
+  <a href="https://niharikapaygude.github.io" target="_blank" rel="noopener noreferrer"><img src="https://github.com/niharikapaygude.png" style="height:50px;border-radius:0" alt="@niharikapaygude"></a>
+  <a href="https://dhruvmarulkar.github.io" target="_blank" rel="noopener noreferrer"><img src="https://github.com/dhruvmarulkar.png" style="height:50px;border-radius:0" alt="@dhruvmarulkar"></a>
+  <a href="https://faizanfirdousi.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://github.com/faizanfirdousi.png" style="height:50px;border-radius:0" alt="@faizanfirdousi"></a>
+  <a href="https://atharvadixit987-crypto.github.io/atharva-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/atharvadixit987-crypto.png" style="height:50px;border-radius:0" alt="@atharvadixit"></a>
+</span>
